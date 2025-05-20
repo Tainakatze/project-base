@@ -2,7 +2,7 @@
 
 🔍 **Características:**  
 🏭 A empresa foca apenas na fabricação dos consoles, deixando a distribuição e vendas para terceiros.  
-🌍 Os produtos são vendidos globalmente.  
+🌍 Os produtos são vendidos globalmente. 
 
 🎯 **Objetivos:**  
 📊 Consolidar todas as bases de terceiros para realizar uma análise.  
